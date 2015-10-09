@@ -1,6 +1,6 @@
 {
   "name": "antd-build",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Build tool for Ant Design",
   "repository": {
     "type": "git",
