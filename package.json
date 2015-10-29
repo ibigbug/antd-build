@@ -1,6 +1,6 @@
 {
   "name": "antd-build",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Build tool for Ant Design",
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "less-loader": "~2.2.0",
     "object-assign": "~3.0.0",
     "shelljs": "~0.5.1",
+    "source-map": "~0.5.3",
     "url-loader": "~0.5.6",
     "webpack": "~1.12.2"
   }
