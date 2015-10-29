@@ -14,19 +14,18 @@
   },
   "dependencies": {
     "autoprefixer-loader": "~2.0.0",
-    "babel-core": "~5.5.8",
-    "babel-loader": "~5.1.4",
+    "babel-core": "~5.8.32",
+    "babel-loader": "~5.3.2",
     "chalk": "~1.0.0",
     "commander": "~2.8.1",
-    "css-loader": "~0.14.5",
+    "css-loader": "~0.21.0",
     "extract-text-webpack-plugin": "~0.8.2",
     "file-loader": "~0.8.4",
-    "gnode": "~0.1.1",
     "less": "~2.5.1",
     "less-loader": "~2.2.0",
     "object-assign": "~3.0.0",
     "shelljs": "~0.5.1",
     "url-loader": "~0.5.6",
-    "webpack": "~1.9.11"
+    "webpack": "~1.12.2"
   }
 }
